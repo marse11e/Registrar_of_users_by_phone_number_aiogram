@@ -5,4 +5,4 @@
 
 Это пример как правильно регистрировать пользователей лучше место дикта сохранять номера в базе данных
 
-<img src="https://user-images.githubusercontent.com/101027445/214138899-04a6e4f8-8115-4d8a-b506-1c7bc187d424.png">
+<img src="https://user-images.githubusercontent.com/101027445/214139107-e55e550c-0d87-490d-ab82-b31d67a7f948.png">
